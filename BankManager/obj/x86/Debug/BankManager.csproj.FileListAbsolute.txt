@@ -1,0 +1,31 @@
+C:\Users\Сергей Королев\AppData\Local\Temporary Projects\BankManager\bin\Debug\BankManager.exe
+C:\Users\Сергей Королев\AppData\Local\Temporary Projects\BankManager\bin\Debug\BankManager.pdb
+C:\Users\Сергей Королев\AppData\Local\Temporary Projects\BankManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Сергей Королев\AppData\Local\Temporary Projects\BankManager\obj\x86\Debug\BankManager.MainForm.resources
+C:\Users\Сергей Королев\AppData\Local\Temporary Projects\BankManager\obj\x86\Debug\BankManager.Properties.Resources.resources
+C:\Users\Сергей Королев\AppData\Local\Temporary Projects\BankManager\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Сергей Королев\AppData\Local\Temporary Projects\BankManager\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Сергей Королев\AppData\Local\Temporary Projects\BankManager\obj\x86\Debug\BankManager.exe
+C:\Users\Сергей Королев\AppData\Local\Temporary Projects\BankManager\obj\x86\Debug\BankManager.pdb
+C:\Users\Сергей Королев\documents\visual studio 2010\Projects\BankManager\BankManager\obj\x86\Debug\BankManager.exe
+C:\Users\Сергей Королев\documents\visual studio 2010\Projects\BankManager\BankManager\obj\x86\Debug\BankManager.pdb
+C:\Users\Сергей Королев\documents\visual studio 2010\Projects\BankManager\BankManager\bin\Debug\BankManager.exe
+C:\Users\Сергей Королев\documents\visual studio 2010\Projects\BankManager\BankManager\bin\Debug\BankManager.pdb
+C:\Users\Сергей Королев\documents\visual studio 2010\Projects\BankManager\BankManager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Сергей Королев\documents\visual studio 2010\Projects\BankManager\BankManager\obj\x86\Debug\BankManager.MainForm.resources
+C:\Users\Сергей Королев\documents\visual studio 2010\Projects\BankManager\BankManager\obj\x86\Debug\BankManager.Properties.Resources.resources
+C:\Users\Сергей Королев\documents\visual studio 2010\Projects\BankManager\BankManager\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Сергей Королев\documents\visual studio 2010\Projects\BankManager\BankManager\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Сергей Королев\Documents\Visual Studio 2010\Projects\BankManager\BankManager\obj\x86\Debug\BankManager.NewDebitor.resources
+C:\Users\Сергей Королев\Documents\Visual Studio 2010\Projects\BankManager\BankManager\obj\x86\Debug\BankManager.NewCredit.resources
+C:\Users\Сергей Королев\Documents\Visual Studio 2010\Projects\BankManager\BankManager\obj\x86\Debug\BankManager.NewPayment.resources
+C:\Users\Сергей\Documents\Projects\BankManager\BankManager\obj\x86\Debug\BankManager.exe
+C:\Users\Сергей\Documents\Projects\BankManager\BankManager\obj\x86\Debug\BankManager.pdb
+C:\Users\Сергей\Documents\Projects\BankManager\BankManager\bin\Debug\BankManager.exe
+C:\Users\Сергей\Documents\Projects\BankManager\BankManager\bin\Debug\BankManager.pdb
+C:\Users\Сергей\Documents\Projects\BankManager\BankManager\obj\x86\Debug\BankManager.MainForm.resources
+C:\Users\Сергей\Documents\Projects\BankManager\BankManager\obj\x86\Debug\BankManager.NewCredit.resources
+C:\Users\Сергей\Documents\Projects\BankManager\BankManager\obj\x86\Debug\BankManager.NewDebitor.resources
+C:\Users\Сергей\Documents\Projects\BankManager\BankManager\obj\x86\Debug\BankManager.NewPayment.resources
+C:\Users\Сергей\Documents\Projects\BankManager\BankManager\obj\x86\Debug\BankManager.Properties.Resources.resources
+C:\Users\Сергей\Documents\Projects\BankManager\BankManager\obj\x86\Debug\BankManager.csproj.GenerateResource.Cache
